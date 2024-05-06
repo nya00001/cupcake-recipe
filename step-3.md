@@ -1,0 +1,1 @@
+3. *Fill Cupcake Liners*: Pour batter into the prepared cupcake liners, filling about 2/3 full.
