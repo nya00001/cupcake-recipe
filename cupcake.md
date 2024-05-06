@@ -8,3 +8,8 @@
 - 1/2 cup milk
 - 1 teaspoon vanilla extract
 - 1 teaspoon baking powder
+
+## Mix Ingredients:
+- In a bowl, cream together the butter and sugar.
+- Beat in the egg, then stir in the milk and vanilla extract.
+- Gradually mix in the flour and baking powder until smooth.
